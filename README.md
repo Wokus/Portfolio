@@ -8,7 +8,7 @@ Programado en C#, este es un sistema de dos capas.
 
 # CURE  
 
-## Estotify  
+## Espotify  
 Es una aplicación web que cumple la función de un reproductor de música. Desarrollada con **Java** en el Back-End y **HTML** junto a **JavaScript** para el Front-End.  
 Esta aplicación está diseñada como un sistema de tres capas, distribuidas en tres máquinas diferentes: la interfaz web, la lógica y la persistencia.  
 
