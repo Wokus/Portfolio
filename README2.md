@@ -20,9 +20,9 @@ Aplicación hecha para la materia "Programación de aplicaciones" del cuarto sem
 Es una aplicación web que cumple la función de un reproductor de música. Desarrollada con **Java** en el Back-End y **HTML** junto a **JavaScript** para el Front-End.  
 Esta aplicación está diseñada como un sistema de tres capas, distribuidas en tres máquinas diferentes: la interfaz web, la lógica y la persistencia.  
 
-🔗 [Repositorio de la presentación](https://github.com/Wokus/Proyecto-Proyectoso-de-fin-de-anio/blob/master/README.md).
+🔗 [Repositorio del Front-End](https://github.com/LatiosLaw/EspotifyWeb_grupo7).
 
-🔗 [Repositorio de la API](https://github.com/Wokus/Proyecto-Proyectoso-de-fin-de-anio/blob/master/README.md).
+🔗 [Repositorio de Back-End](https://github.com/LatiosLaw/Espotify_grupo7).
 
 ## Creatura  
 Sistema elaborado para las materias "Taller de aplicaciones de internet ricas" y "PHP".  
@@ -30,5 +30,5 @@ Un sistema gestor de criaturas fantásticas que permite al usuario crear y compa
 Diseñado como un sistema de dos capas: una capa de presentación web y otra capa lógica con acceso a una base de datos.  
 La presentación fue desarrollada en **Angular**, mientras que la lógica fue implementada en **PHP** como una API.  
 
-🔗 [Repositorio de la presentación](https://github.com/LatiosLaw/Creatura_RIA/tree/main/Creatura).  
+🔗 [Repositorio de la presentación](https://github.com/LatiosLaw/Creatura_RIA).  
 🔗 [Repositorio de la API](https://github.com/LatiosLaw/Creatura_PHP).
