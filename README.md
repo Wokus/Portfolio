@@ -33,3 +33,11 @@ The presentation was developed in **Angular**, while the logic was implemented i
 🔗 [Presentation repository](https://github.com/LatiosLaw/Creatura_RIA/tree/main/Creatura).  
 
 🔗 [API repository](https://github.com/LatiosLaw/Creatura_PHP).  
+
+## Docker Project  
+A small Docker project that uses Docker Compose to set up two containers.  
+One contains a simple Java application that connects to a PostgreSQL database using JPA,  
+and the other container runs Data Miner, exposed on a public port to allow access from outside the container.
+
+🔗 [Repository](https://github.com/Wokus/Coso-para-Ingenieria)
+
