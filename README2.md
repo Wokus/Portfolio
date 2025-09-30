@@ -1,34 +1,35 @@
 # Portfolio  
-Recopilación de los proyectos mayores hechos para y durante mis diferentes estudios.
+Compilation of the major projects developed for and during my different studies.
 
-Estos estudios fueron dos:
-- Tecnólogo en Informática en UTU Arrayanes.
-- Tecnólogo Profesional en Informática en CURE de Maldonado. 
+These studies were two:  
+- Technologist in Computer Science at UTU Arrayanes.  
+- Professional Technologist in Computer Science at CURE Maldonado.  
 
-# UTU Arrayanes 
-## Sistema gestor del Pañol  
-Como el nombre indica, es un sistema gestor de inventario para el Pañol de Arrayanes.  
-Esta aplicación sirve tanto para gestionar el inventario como para realizar solicitudes de préstamo de equipo.  
-Programado en C#, este es un sistema de dos capas.
+# UTU Arrayanes  
+## Pañol Management System  
+As the name suggests, it is an inventory management system for the Pañol of Arrayanes.  
+This application serves both to manage the inventory and to handle equipment loan requests.  
+Developed in C#, this is a two-layer system.  
 
-🔗 [Repositorio](https://github.com/Wokus/Proyecto-Proyectoso-de-fin-de-anio/blob/master).
+🔗 [Repository](https://github.com/Wokus/Proyecto-Proyectoso-de-fin-de-anio).  
 
 # CURE  
-## Espotify
+## Espotify  
 
-Aplicación hecha para la materia "Programación de aplicaciones" del cuarto semestre.  
-Es una aplicación web que cumple la función de un reproductor de música. Desarrollada con **Java** en el Back-End y **HTML** junto a **JavaScript** para el Front-End.  
-Esta aplicación está diseñada como un sistema de tres capas, distribuidas en tres máquinas diferentes: la interfaz web, la lógica y la persistencia.  
+Application developed for the course *Application Programming* in the fourth semester.  
+It is a web application that functions as a music player. Developed with **Java** on the Back-End and **HTML** together with **JavaScript** on the Front-End.  
+This application was designed as a three-layer system, distributed across three different machines: the web interface, the logic, and the persistence layer.  
 
-🔗 [Repositorio del Front-End](https://github.com/LatiosLaw/EspotifyWeb_grupo7).
+🔗 [Front-End repository](https://github.com/LatiosLaw/EspotifyWeb_grupo7).  
 
-🔗 [Repositorio de Back-End](https://github.com/LatiosLaw/Espotify_grupo7).
+🔗 [Back-End repository](https://github.com/LatiosLaw/Espotify_grupo7).  
 
 ## Creatura  
-Sistema elaborado para las materias "Taller de aplicaciones de internet ricas" y "PHP".  
-Un sistema gestor de criaturas fantásticas que permite al usuario crear y compartir sus propias criaturas.  
-Diseñado como un sistema de dos capas: una capa de presentación web y otra capa lógica con acceso a una base de datos.  
-La presentación fue desarrollada en **Angular**, mientras que la lógica fue implementada en **PHP** como una API.  
+System developed for the courses *Rich Internet Applications Workshop* and *PHP*.  
+A fantasy creature management system that allows users to create and share their own creatures.  
+Designed as a two-layer system: a web presentation layer and a logic layer with database access.  
+The presentation was developed in **Angular**, while the logic was implemented in **PHP** as an API.  
 
-🔗 [Repositorio de la presentación](https://github.com/LatiosLaw/Creatura_RIA).  
-🔗 [Repositorio de la API](https://github.com/LatiosLaw/Creatura_PHP).
+🔗 [Presentation repository](https://github.com/LatiosLaw/Creatura_RIA/tree/main/Creatura).  
+
+🔗 [API repository](https://github.com/LatiosLaw/Creatura_PHP).  
